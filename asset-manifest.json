@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5f9acf7.css",
+    "main.js": "/static/js/main.64ba6318.js",
+    "static/js/453.640f23fb.chunk.js": "/static/js/453.640f23fb.chunk.js",
+    "static/media/SistemasOperativos.jpg": "/static/media/SistemasOperativos.86d3abac14bdec498a30.jpg",
+    "static/media/Arquitectura.jpg": "/static/media/Arquitectura.b108715dbd495139e984.jpg",
+    "static/media/databases.jpg": "/static/media/databases.546f3e48f3a7cafd3922.jpg",
+    "static/media/Compiladores.jpg": "/static/media/Compiladores.171d61cdac8e3faab341.jpg",
+    "static/media/Analisis-de-sistemas.jpg": "/static/media/Analisis-de-sistemas.ee85e3e2a36671701ca9.jpg",
+    "index.html": "/index.html",
+    "main.c5f9acf7.css.map": "/static/css/main.c5f9acf7.css.map",
+    "main.64ba6318.js.map": "/static/js/main.64ba6318.js.map",
+    "453.640f23fb.chunk.js.map": "/static/js/453.640f23fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f9acf7.css",
+    "static/js/main.64ba6318.js"
+  ]
+}
